@@ -106,12 +106,12 @@ h1 {
 	height: 300px;
 } */
 
-.aboutMeBlurb {
+.about-me-blurb {
 	margin-left: 15px;
 }
 
 
-.aboutMeBlurb > h4 {
+.about-me-blurb > h4 {
 	font-weight: normal;
 }
 
@@ -133,22 +133,22 @@ a {
 	padding-right: 25px; 
 }
 
-.portfolioContent {
+.portfolio-content {
 	padding-left: 5px;
 	list-style: none;
 
 }
 
-.companyName {
+.company-name {
 	padding-left: 25px;
 	font-style: italic;
 }
 
-.companyRole {
+.company-role {
 	font-weight: normal;
 }
 
-.companyYears {
+.company-years {
 	font-weight: normal;
 }
 
@@ -157,16 +157,16 @@ a {
 	: 50px;
 } */
 
-.portfolioSection {
+.portfolio-section {
 	margin-right: 75px;
 	margin-left: 75px;
 }
 
-.portfolioPicture {
+.portfolio-picture {
     text-align: center;
 } 
 
-.portfolioHeader {
+.portfolio-header {
 	width: 100%;
 	margin-left: 0;
 	margin-right: 0;
