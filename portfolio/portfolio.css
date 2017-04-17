@@ -76,6 +76,7 @@ h1 {
 	width: 100%;
 	text-align: center;
 	letter-spacing: 20px;
+	font-weight: normal;
 }
 
 .h3-fewd {
@@ -107,6 +108,11 @@ h1 {
 
 .aboutMeBlurb {
 	margin-left: 15px;
+}
+
+
+.aboutMeBlurb > h4 {
+	font-weight: normal;
 }
 
 a {
@@ -159,3 +165,13 @@ a {
 .portfolioPicture {
     text-align: center;
 } 
+
+.portfolioHeader {
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+	text-align: center;
+	font-size: 25px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+}
