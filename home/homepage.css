@@ -1,0 +1,30 @@
+body {
+	background: white url('../images/NYC.jpg') no-repeat center fixed; 
+	background-size: cover;
+    font-family: Arial;
+}
+
+section {
+	position: fixed;
+	top: 50%;
+	font-size: 25px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	width: 100%;
+}
+
+a {
+	display: inline-block;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid white;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    width: 150px;
+}
+
+a:hover {
+	background-color: white;
+	color: black;
+}
